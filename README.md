@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f2aa14c0-b5db-43df-91bf-46a29e380202)# Jump-up
+
 # 국립한밭대학교 인공지능소프트웨어학과 iSWear
 
 **팀 구성**
@@ -8,7 +8,6 @@
 
 ## Project Background
 
-![image](https://github.com/user-attachments/assets/4fafde26-be74-4bd2-a2a0-311558764e65)
 
 
 본 연구는 데이터 부족 문제를 해결하고 CNN 모델의 객체 탐지 성능을 개선하기 위해 진행되었습니다.  
@@ -19,14 +18,11 @@
 
 ### 연구 방법론  
 
-![image](https://github.com/user-attachments/assets/0e38155d-14a0-417c-99ea-dd407483ef06)
 
 #### **1. 색상 마스킹 및 HSV 변환**  
 - 특정 색상의 범위를 지정해 신호등 객체를 탐지.  
 - 신호등 객체를 제외한 배경에 블러링을 적용해 데이터를 증강.  
 
-
-![image](https://github.com/user-attachments/assets/8f91e3ab-ea46-4c59-9fc0-0b46cdaa1581)
 
 #### **2. CNN 모델 학습**  
 - EDGE IMPULSE 플랫폼을 활용해 블러링 전처리 데이터셋과 원본 데이터를 비교 학습.  
