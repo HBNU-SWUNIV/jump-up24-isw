@@ -2,6 +2,10 @@
 # 국립한밭대학교 인공지능소프트웨어학과 iSWear
 
 **팀 구성**
+- 30232860 채희주 30232960@edu.hanbat.ac.kr
+- 20221046 김서연 20221046@edu.hanbat.ac.kr
+- 20221075 정현서 20221075@edu.hanbat.ac.kr
+- 20221073 정은주 20221073@edu.hanbat.ac.kr
 - 20231077 최은실 20231077@edu.hanbat.ac.kr
 - 20231081 한재웅 20231081@edu.hanbat.ac.kr
 - 인공지능소프트웨어학과 iSWear 김은경 교수님 ekim@hanbat.ac.kr
